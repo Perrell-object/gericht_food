@@ -1,6 +1,6 @@
-# Plack - Ecommerce Admin Dashboard
+# Gericht - Restaurant Fully Responsive Web Application
 
-![banner](/images/Gricht_Restaurant.png)
+![banner](/images/Gericht_Restaurant.png)
 
 ### Description
 
