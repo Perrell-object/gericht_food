@@ -30,4 +30,4 @@ For more of my work visit:
 
 [Personal Profile](https://perrellshaw.netlify.app/)
 
-# dash-react-admin
+# gericht-food-app
